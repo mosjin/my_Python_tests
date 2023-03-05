@@ -2,6 +2,7 @@
 ## Refers to:
 https://pythonguidecn.readthedocs.io/zh/latest/
 
+https://github.com/GitLanx/Python-note
 
 
 ### 1, decoreate testing: 
