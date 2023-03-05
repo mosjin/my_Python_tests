@@ -47,7 +47,7 @@ class ABC():
 
     @logit
     def log_it( self, name, count ):
-        print( f"{ABC.log_it.__name__}, name: {name}, count: {count}" )
+        print( f"{ABC.log_it.__qualname__}, name: {name}, count: {count}" )
 
 
 # @logit
